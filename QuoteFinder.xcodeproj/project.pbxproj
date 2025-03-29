@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		58718DAC2D97056800AACEA2 /* QuoteFinder */ = {
+		58718DCC2D98846400AACEA2 /* QuoteFinder */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = QuoteFinder;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		58718DA12D97056800AACEA2 = {
 			isa = PBXGroup;
 			children = (
-				58718DAC2D97056800AACEA2 /* QuoteFinder */,
+				58718DCC2D98846400AACEA2 /* QuoteFinder */,
 				58718DAB2D97056800AACEA2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				58718DAC2D97056800AACEA2 /* QuoteFinder */,
+				58718DCC2D98846400AACEA2 /* QuoteFinder */,
 			);
 			name = QuoteFinder;
 			packageProductDependencies = (
