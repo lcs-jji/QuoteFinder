@@ -12,8 +12,8 @@ struct Quote: Codable {
     
     let quoteText: String?
     let quoteAuthor: String?
-    let senderName: String
-    let senderLink: String
+    let senderName: String?
+    let senderLink: String?
     let quoteLink: String
         
 }
